@@ -1,6 +1,6 @@
-Julia
+# Julia Projects
 
-[The Julia Programming Language Documentation](https://julialang.org)
+This github repository holds references for, and scripts resulting from, various [Julia](https://julialang.org) projects
 
 TL;DR: Julia looks and feels a lot like Python, only much faster. It's dynamic, expressive, extensible, with batteries included, in particular for Data Science.
 
