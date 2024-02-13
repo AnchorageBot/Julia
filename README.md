@@ -24,6 +24,8 @@ Julia Cloud/Online IDE's (Interactive Development Environments)
 
 YouTube Videos
 
-* [(Intro to) Julia in 100 Seconds - Firebase](https://youtu.be/JYs_94znYy0?si=3KjPT5V88KZ5Of73)
+* [VS Code in 100 seconds - Fireship](https://youtu.be/KMxo3T_MTvY?si=tZNwhQ4zOQf3g5A3)
+
+* [(Intro to) Julia in 100 Seconds - Fireship](https://youtu.be/JYs_94znYy0?si=3KjPT5V88KZ5Of73)
 
 * [The Julia Programming Language YouTube Channel](www.youtube.com/@TheJuliaLanguage)
