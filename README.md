@@ -16,6 +16,8 @@ Julia Cloud/Online IDE's (Interactive Development Environments)
 
 * [Google Colab Notebook - Julia_for_Pythonistas.ipynb](https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_for_Pythonistas.ipynb?authuser=1)
 
+* [Jupyter nbviewer](https://nbviewer.org)
+
 * [Replit](https://replit.com/@logankilpatrick/TryJuliaToday#main.jl)
 
 * [VS Code](https://vscode.dev)
